@@ -1,0 +1,1 @@
+Simple english text reader 
